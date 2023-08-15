@@ -1,0 +1,3 @@
+[submodule "tidb"]
+	path = tidb
+	url = https://github.com/pingcap/tidb.git

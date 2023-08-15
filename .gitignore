@@ -7,3 +7,4 @@ __pycache__/
 __debug*
 .DS_Store
 *.json
+lab*/eval/*
