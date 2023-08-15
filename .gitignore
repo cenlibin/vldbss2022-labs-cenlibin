@@ -1,0 +1,9 @@
+.idea
+*.pkl
+*.npy
+__pycache__/
+ *.pyc
+*.sql
+__debug*
+.DS_Store
+*.json
