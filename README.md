@@ -11,7 +11,6 @@ There are 4 labs in this course.
 - [Lab 1](./lab1/doc/readme.md), learning-based cardinality estimation.
 - [Lab 2](./lab2/doc/readme.md), learning-based cost estimation.
 - [Lab 3](./lab3/doc/readme.md), integration with a realistic Database(TiDB).
-- [Lab 4](./lab4/doc/readme.md), an end-to-end cardinality and cost estimator.
 
 You need to fill some missing code in order to complete these labs.
 
